@@ -31,19 +31,17 @@ ServiceLocator is a web application designed to connect users with local service
   - [shadcn/ui](https://shadcn.dev/) for advanced components  
 
 - **Backend:**  
-  - Next.js API Routes  
+  - React.js json Routes  
   - [Prisma ORM](https://www.prisma.io/) for database interactions  
 
 - **Authentication:**  
   - [Clerk](https://clerk.dev/) for secure user authentication  
 
 - **Hosting:**  
-  - [Vercel](https://vercel.com/)  
+  - comming soon
 
 ---
 
-## 📂 Project Structure
 
-Here’s the high-level structure of the project:
 
 
